@@ -4,7 +4,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neo-euni&theme=moltack)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneo-euni&count_bg=%23F8C5C5&title_bg=%23EA9C9C&icon=github.svg&icon_color=%23FFFFFF&title=Git+Hub&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F지능화개발팀&count_bg=%23F8C5C5&title_bg=%23EA9C9C&icon=github.svg&icon_color=%23FFFFFF&title=Git+Hub&edge_flat=false)
 <a href="https://velog.io/@9ruem2"><img src="https://img.shields.io/badge/Tech%20Blog-EA9C9C?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@9ruem2"/></a>
 
 </br>
