@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Guruem's%20GitHub%20☁️&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20neo-euni's%20GitHub%20☁️&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9ruem2&theme=moltack)
 
