@@ -10,7 +10,7 @@
 </br>
 
 # ☁️ Introduction
-<p>지능화개발팀의 박은희 입니다:)</br></br>neo-biotech에서 디지털 개발실에 속해있어요 🤗</br> 잘부탁드립니다!🧙🏻‍♀️🔮</p></br>
+<p>DistalR&D center 박은희프로 입니다:)</br></br>neo-biotech S/W개발팀 🤗</br> 3D graphics업무를 담당하고 있습니다🧙🏻‍♀️🔮</p></br>
 
 </br>
 
