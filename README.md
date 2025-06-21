@@ -4,7 +4,7 @@
 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=9ruem2)](https://github.com/neo-euni/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=9ruem2)](https://velog.io/@9ruem2)
 
 <a href="https://velog.io/@9ruem2"><img src="https://img.shields.io/badge/Tech%20Blog-EA9C9C?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@9ruem2"/></a>
 
